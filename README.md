@@ -1,0 +1,1 @@
+This is my final assignment associated with the "SQL for Data Science" course by UC Davis on Coursera.
